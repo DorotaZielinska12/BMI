@@ -1,7 +1,7 @@
 # BMI CALCULATE
 
 ## DEMO
-https://dorotazielinska12.github.io/BMI/inedx.html
+ https://dorotazielinska12.github.io/BMI/
 
 ![](https://raw.githubusercontent.com/DorotaZielinska12/BMI/main/images/bmi.webp)
 
