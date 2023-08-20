@@ -62,14 +62,12 @@
     background-size: cover;
 }
 
-.form__img {
-    width: 700px;
-    height: 372px;
-    background-image: url("../images/tabela.png");
-    background-repeat: no-repeat;
-    margin: 0 auto;
-}
-
 .form__description {
     margin: 30px 60px auto;
+}
+
+.form__img {
+    padding-top: 10px;
+    object-position: center;
+    margin: 0 20%;
 }
