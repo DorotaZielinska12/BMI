@@ -24,14 +24,14 @@
 <body class="body">
     <div class="container">
         <form class="form js-form">
-            <fieldset class="form__fieldset">
+            <fieldset class="form__fieldset form--element">
                 <legend class="form__legend">
                     BMI CALCULATE
                 </legend>
                 <p>
                     <label>
                         <span class="form__labelText">
-                            Weight (kg):
+                            <strong>Weight (kg):</strong>
                         </span>
                         <input class="form__input js-weight" required type="number" min="1" step="any">
                     </label>
@@ -39,17 +39,17 @@
                 <p>
                     <label>
                         <span class="form__labelText">
-                            Height (cm):
+                            <strong>Height (cm):</strong>
                         </span>
                         <input class="form__input js-height" required type="number" min="1" step="any">
                     </label>
                 </p>
+                <button class="form__button js-submit">
+                    Results
+                </button>
+                <p class="result">Your BMI result:<strong class="js-bmi"></strong></p>
             </fieldset>
-            <button class="form__button js-submit">
-                Results
-            </button>
-            <p class="result">Your BMI result:<strong class="js-bmi"></strong></p>
-            <section>
+            <section class="form__description">
                 BMI is a coefficient that allows you to calculate whether the proportions of our body weight in relation
                 to
                 height are correct. The correct BMI means in theory that we have no problems with too much or too little
@@ -57,11 +57,15 @@
                 you
                 do not always have to blindly believe what the result shows. It is worth knowing what it is and how it
                 is
-                calculated, but it cannot be our only source of information.
+                calculated, but it cannot be our only source of information.<br>
+                BMI is a formula developed by the Belgian statistician Adolf Quetelet, which allows us to determine
+                whether our weight is proportional to height and vice versa. Its use became popular in the 70s and was
+                then the only source of knowledge about whether our body weight is correct.
+            </section>
+            <section class="form__img">
             </section>
         </form>
     </div>
-
 </body>
 
 </html>

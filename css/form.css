@@ -3,6 +3,8 @@
     max-width: 150px;
     display: inline-block;
     margin-right: 5px;
+    font-size: 25px;
+    text-shadow: 6px 4px 10px white;
 }
 
 .form__input {
@@ -53,4 +55,21 @@
     text-align: center;
     margin-bottom: 30px;
     font-size: 30px;
+}
+
+.form--element {
+    background-image: url("../images/backg.jpeg");
+    background-size: cover;
+}
+
+.form__img {
+    width: 700px;
+    height: 372px;
+    background-image: url("../images/tabela.png");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.form__description {
+    margin: 30px 60px auto;
 }
