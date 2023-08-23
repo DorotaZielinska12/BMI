@@ -23,8 +23,8 @@
     border-radius: 7px;
     text-align: center;
     padding: 12px;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: black;
     color: antiquewhite;
 }
@@ -64,10 +64,4 @@
 
 .form__description {
     margin: 30px 60px auto;
-}
-
-.form__img {
-    padding-top: 10px;
-    object-position: center;
-    margin: 0 20%;
 }
