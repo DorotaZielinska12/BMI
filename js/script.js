@@ -11,8 +11,6 @@ formElement.addEventListener("submit", (event) => {
 
     let bmi = weight / ((height / 100) ** 2);
 
-    console.log(bmi);
-
     bmiElement.innerText = bmi.toFixed(2);
 });
 

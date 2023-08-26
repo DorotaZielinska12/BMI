@@ -1,7 +1,8 @@
 # BMI CALCULATE
 
 ## DEMO
- https://dorotazielinska12.github.io/BMI/
+
+ <https://dorotazielinska12.github.io/BMI/>
 
 ![](https://raw.githubusercontent.com/DorotaZielinska12/BMI/main/images/bmi.webp)
 
@@ -14,3 +15,4 @@ BMI Calculate is the project made for more practics like a frontend developer. T
 - HTML
 - JavaScript
 - BEM
+- FLEX
