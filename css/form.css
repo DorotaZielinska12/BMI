@@ -82,3 +82,8 @@
     margin: 10px;
     flex: 1 0 0;
 }
+
+.form__description--title {
+    text-align: center;
+    font-size: 30px;
+}
