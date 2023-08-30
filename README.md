@@ -4,7 +4,7 @@
 
  <https://dorotazielinska12.github.io/BMI/>
 
-![](https://raw.githubusercontent.com/DorotaZielinska12/BMI/main/images/bmi.webp)
+![bmi](https://raw.githubusercontent.com/DorotaZielinska12/BMI/main/images/bmi.webp)
 
 ## DESCRIPTION
 
